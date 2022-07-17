@@ -1,3 +1,3 @@
 # iCoreAnimation-SPM
 
-A description of this package.
+Core Animations
